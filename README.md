@@ -1,6 +1,9 @@
  project name : 시계열을 이용하여 미세먼지 예측 프로젝트
+ 
  skill : Postgresql, Docker, Fastapi, ETL(airflow), Ubuntu   
+ 
  library : Pandas, Requests, sqlalchemy, Matplotlib, Seaborn, StringIO, Scikit-learn, Psycopg2, Numpy, Tensorflow(Keras) or Pytorch 
+ 
  model : Cnn/Lstm, Sarimax
 
  기대효과 : 시계열 데이터 및 미세먼지 전국 데이터를 가져와서 pm 10이상(미세먼지)인 지역을 분석 및 예측을 진행하여 미세먼지 주의를 예방하는 기대효과를 가짐.
